@@ -1,6 +1,9 @@
 # Book settings
-title: Dog trouble
+title: Dog Trouble
 author: Dexter
+
+html:
+  home_page_in_navbar: false
 
 latex:
   latex_documents:
