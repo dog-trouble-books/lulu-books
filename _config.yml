@@ -1,0 +1,7 @@
+# Book settings
+title: Dog trouble
+author: Dexter
+
+latex:
+  latex_documents:
+    targetname: book.tex
