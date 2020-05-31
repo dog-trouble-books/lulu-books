@@ -1,5 +1,6 @@
-- file: intro
+- file: welcome
 
 - header: Book 1
-- file: lulu1
-- file: lulu2
+- file: lulu1/title
+- file: lulu1/intro
+- file: lulu1/ch1
